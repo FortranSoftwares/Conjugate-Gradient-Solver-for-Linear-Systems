@@ -4054,15 +4054,15 @@ c      R8VEC_NORM = sqrt ( sum ( 1 .le. I .le. N ) A(I)^2 ).
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    27 May 2008
+c    BY Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c  Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -4103,15 +4103,15 @@ c    An R8VEC is a vector of R8's.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    12 January 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -4150,15 +4150,15 @@ c    An R8VEC is a vector of R8's.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    17 July 2006
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -4220,15 +4220,15 @@ cc TIMESTAMP prints out the current YMDHMS date as a timestamp.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    12 January 2007
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
