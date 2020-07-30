@@ -10,15 +10,15 @@ c    CG_PRB tests the CG library.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    09 July 2014
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -58,11 +58,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    02 June 2014
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -134,15 +134,15 @@ cc TEST02 tests R83_CG.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
-c    03 June 2014
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
       implicit none
 
@@ -212,7 +212,7 @@ cc TEST023 tests R83S_CG.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
