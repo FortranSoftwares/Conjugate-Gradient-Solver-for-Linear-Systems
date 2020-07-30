@@ -50,11 +50,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    11 June 2011
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -162,11 +162,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    22 June 2011
+c    BY Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
