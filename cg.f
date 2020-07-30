@@ -46,7 +46,7 @@ c    accumulated into an explicit matrix format.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
@@ -158,7 +158,7 @@ c    The eigenvalues of A will be real.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license.
+c    This code is distributed under the MIT license.
 c
 c  Modified:
 c
@@ -232,11 +232,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    08 January 2007
+c    Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Parameters:
 c
@@ -359,11 +359,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    11 August 2004
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -460,11 +460,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    02 June 2014
+c    By Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -670,11 +670,11 @@ c    This code is distributed under the GNU LGPL license.
 c
 c  Modified:
 c
-c    01 July 2000
+c   Sourangshu Ghosh
 c
 c  Author:
 c
-c    John Burkardt
+c    Sourangshu Ghosh
 c
 c  Reference:
 c
@@ -847,7 +847,7 @@ cc R83_RESID computes the residual R = B-A*X for R83 matrices.
 c
 c  Licensing:
 c
-c    This code is distributed under the GNU LGPL license. 
+c    This code is distributed under the MIT license. 
 c
 c  Modified:
 c
